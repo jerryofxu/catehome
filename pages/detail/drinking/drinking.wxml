@@ -1,0 +1,6 @@
+<view class='img' bindtap='yumizhi'>
+  <image src='https://i8.meishichina.com/attachment/recipe/2013/03/29/20130329152625467845660.jpg?x-oss-process=style/p800' mode='aspectFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>奶香玉米汁</text>
+</view>

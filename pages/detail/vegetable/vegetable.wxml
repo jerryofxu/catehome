@@ -1,0 +1,6 @@
+<view class='img' bindtap='qingcai'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107061559139.jpg?x-oss-process=style/p800' mode='aspectFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>香菇青菜</text>
+</view>

@@ -1,0 +1,32 @@
+<view class='sousuo'>
+  <input class='box' placeholder='find tasty' value='{{searchVal}}' bindinput='wxSearchInput'><icon class='searchIcon' type='search' color='blue' bindtap='searchBtn'></icon></input>
+</view>
+<view>
+  <swiper catchtap="onSwiperTap" vertical="{{false}}"  indicator-dots="true" autoplay="true" interval="5000" circular="true">
+    <swiper-item><image src='/images/post/post1.jpg'></image></swiper-item>
+    <swiper-item><image src='/images/post/post2.jpg'></image></swiper-item>
+    <swiper-item><image src='/images/post/post5.jpg'></image></swiper-item>
+    <swiper-item><image src='/images/post/post6.jpg'></image></swiper-item>
+  </swiper>
+</view>
+<view class='menu'>
+  <view class='menu-lead' bindtap='tuijian'><image src='/images/icon/icon-1.png' mode='aspectFit' style='height:100%'></image></view>
+  <view class='menu-lead' bindtap='zuiai'><image src='/images/icon/icon-2.png' mode='aspectFit' style='height:100%'></image></view>
+  <view class='menu-lead' bindtap='chooseSort'><image src='/images/icon/icon-3.png' mode='aspectFit' style='height:100%' ></image></view>
+</view>
+<view class='post' bindtap='seeR' >
+  <image src='https://i8.meishichina.com/attachment/recipe/2013/09/21/20130921151339216599176.jpg?x-oss-process=style/p800' style="width:100%"></image>
+  <text>流口水系列———水煮肉片</text>
+  <text class='post-text'>就这卖相就让我想要...</text>
+</view>
+<view class='post' bindtap='seeT'>
+  <image src='/images/dishes/tomato/6.jpg' style="width:100%;"></image>
+  <text>经典系列———西红柿炒鸡蛋</text>
+  <text class='post-text'>不愧是经典中的...</text>
+</view>
+<view class='post' bindtap='seeC'>
+  <image src='/images/dishes/Chicken/a.jpg' style="width:100%"></image>
+  <text>小朋友最爱———可乐鸡翅</text>
+  <text class='post-text'>每次小朋友来我家就点名要吃...</text>
+</view>
+<button wx:if="{{canIUse}}" open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">授权登录</button>

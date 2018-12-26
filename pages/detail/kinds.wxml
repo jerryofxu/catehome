@@ -1,0 +1,42 @@
+<view class='row'>
+  <view class='img' bindtap='fav'>
+    <image src='/images/kinds/hot.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>人气推荐</text>
+  </view>
+  <view class='img' bindtap='meat'>
+    <image src='/images/kinds/meat.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>无肉不欢</text>
+  </view>
+   <view class='img' bindtap='family'>
+    <image src='/images/kinds/family.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>家常菜</text>
+  </view>
+</view>
+<view class='row'>
+  <view class='img' bindtap='fast'>
+    <image src='/images/kinds/fastdish.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>快手菜</text>
+  </view>
+  <view class='img' bindtap='vege'>
+    <image src='/images/kinds/vegetable.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>青蔬</text>
+  </view>
+   <view class='img' bindtap='cookie'>
+    <image src='/images/kinds/Cake.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>甜品蛋糕</text>
+  </view>
+</view>
+<view class='row'>
+  <view class='img' bindtap='noodle'>
+    <image src='/images/kinds/noodle.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>面食</text>
+  </view>
+   <view class='img' bindtap='drink'>
+    <image src='/images/kinds/drink.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>饮品</text>
+  </view>
+  <view class='img' bindtap='mmore'>
+    <image src='/images/kinds/more.png' style="width: 200rpx; height: 200rpx"></image>
+    <text>更多</text>
+  </view>
+</view>

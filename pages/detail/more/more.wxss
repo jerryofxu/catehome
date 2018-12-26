@@ -1,0 +1,7 @@
+.more {
+  display: flex;
+  flex-direction: column;
+  font-size: 30rpx;
+  color: #f00;
+  text-align: center;
+}

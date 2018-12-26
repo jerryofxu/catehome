@@ -1,0 +1,24 @@
+<view class='img'>
+  <image src='/images/dishes/tomato/6.jpg' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>西红柿炒蛋</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>鸡蛋，番茄</text>
+</view>
+<view class='step'>
+  <image src='/images/dishes/tomato/1.jpg' style="margin: 0 auto;"></image>
+  <text>①准备图中的食材。</text>
+  <image src='/images/dishes/tomato/2.jpg' style="margin: 0 auto;"></image>
+  <text>②番茄切块，鸡蛋打散，小葱切碎。</text>
+  <image src='/images/dishes/tomato/3.jpg' style="margin: 0 auto;"></image>
+  <text>坐锅放油烧热，倒入鸡蛋。</text>
+  <image src='/images/dishes/tomato/4.jpg' style="margin: 0 auto;"></image>
+  <text>要一直炒至出汤，出汤后再加小半碗水进去。</text>
+  <image src='/images/dishes/tomato/5.jpg' style="margin: 0 auto;"></image>
+  <text>等到汤汁渐浓之后把鸡蛋和葱花倒进去，炒匀，放少许白糖及盐调味即可。</text>
+</view>

@@ -1,0 +1,32 @@
+<view class='img'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107061559139.jpg?x-oss-process=style/p800' mode='aspectFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>香菇青菜</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>青菜，干香菇，鸡汤，盐，油,鸡精</text>
+</view>
+<view class='step'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052246584.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>香菇提前泡发备用。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052247358.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>把青菜洗净。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052248424.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>锅中加水烧开加入盐和几滴油下入青菜焯水</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052249236.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>捞出控干，码放在盘中。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052249567.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>锅内放油，油热爆香葱碎。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052250373.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>下入香菇煸炒。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052251239.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>加入鸡汤转小火焖5分钟。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052252403.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>汤汁收干加入盐 鸡精调味，芶入薄芡，淋入香油。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201107/201107052253295.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>用筷子把焖至好的香菇码放在菜上浇入汤汁即可。</text>
+</view>

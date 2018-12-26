@@ -1,0 +1,24 @@
+<view class='img'>
+  <image src='/images/dishes/Chicken/a.jpg' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>可乐鸡翅</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>鸡翅中，可乐，八角，葱段，料酒，姜</text>
+</view>
+<view class='step'>
+  <image src='/images/dishes/Chicken/b.jpg' style="margin: 0 auto;"></image>
+  <text>①材料：鸡翅中、可乐一听、八角、姜、葱段、料酒。</text>
+  <image src='/images/dishes/Chicken/c.jpg' style="margin: 0 auto;"></image>
+  <text>②鸡翅洗净，入葱姜水中煮沸捞出，沥干水份。</text>
+  <image src='/images/dishes/Chicken/d.jpg' style="margin: 0 auto;"></image>
+  <text>倒入可乐没过鸡翅即可。</text>
+  <image src='/images/dishes/Chicken/r.jpg' style="margin: 0 auto;"></image>
+  <text>加入酱油、大料、葱段、姜片，大火烧开后转小火。</text>
+  <image src='/images/dishes/Chicken/x.jpg' style="margin: 0 auto;"></image>
+  <text>炖至汤汁浓稠即可。</text>
+</view>

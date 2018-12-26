@@ -1,0 +1,36 @@
+<view class='img'>
+  <image src='https://i8.meishichina.com/attachment/recipe/2013/05/12/20130512221646741777269.jpg?x-oss-process=style/p800' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>芒果班戟</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>牛奶，鸡蛋，低筋面粉,黄油，糖，芒果，奶油</text>
+</view>
+<view class='step'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130800371369038344.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>鸡蛋加入糖粉中搅打均匀。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130801231368788661.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>倒入牛奶搅拌均匀</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130801471368809742.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>筛入低筋面粉轻轻拌匀。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130802101368966719.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>黄油融化成液态，加入面糊中搅拌均匀</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130803441369200020.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>将静置后的材料过筛成细腻的面糊水</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130806011369222247.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>平底锅小火加热，倒入一大勺面糊，转动锅子让面糊摊成圆饼状</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130807281368715387.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>做好的面皮放那晾晾冷却</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130810421369019621.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>这时候将淡奶油倒入无油无水的盆里，加入细砂糖用打蛋器打发，提起打蛋器有小尖角</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130807501368454190.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>芒果切出小长条粒。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130808181368773113.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>冷却后的奶皮上加一勺打发好的奶油，放上芒果条</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201305/201305130809331368878920.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>倒过来收口朝下</text>
+</view>

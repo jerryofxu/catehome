@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/kinds",
+    "pages/dishes/shuizhuroupian/roupian",
+    "pages/dishes/yumizhi/yumizhi",
+    "pages/dishes/tomato/tomato",
+    "pages/dishes/Chicken/Chicken",
+    "pages/user/user",
+    "pages/dishes/mian/mian",
+    "pages/dishes/tiandian/tiandian",
+    "pages/hometaste/hometaste",
+    "pages/detail/favorite/favorite",
+    "pages/detail/more/more",
+    "pages/detail/meat/meat",
+    "pages/detail/cookie/cookie",
+    "pages/detail/drinking/drinking",
+    "pages/detail/family/family",
+    "pages/detail/fast/fast",
+    "pages/dishes/vegetables/vegetables",
+    "pages/detail/noodle/noodle",
+    "pages/dishes/paigu/paigu",
+    "pages/detail/vegetable/vegetable",
+    "pages/detail/jiachang",
+    "pages/detail/recommend",
+    "pages/user/device/device"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#7FFFAA",
+    "navigationBarTitleText": "Catehome",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "position": "bottom",
+    "selectedColor": "#4A6141",
+    "color": "#333",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/icon/index.png",
+        "selectedIconPath": "/images/icon/index.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "/images/icon/my.png",
+        "selectedIconPath": "/images/icon/my.png"
+      }
+    ],
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "navigationBarTextStyle": "black"
+  }
+}

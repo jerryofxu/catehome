@@ -1,0 +1,6 @@
+<view class='img' bindtap='banji'>
+  <image src='https://i8.meishichina.com/attachment/recipe/2013/05/12/20130512221646741777269.jpg?x-oss-process=style/p800' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>芒果班戟</text>
+</view>

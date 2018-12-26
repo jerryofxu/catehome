@@ -1,0 +1,26 @@
+<view class='img'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201102/201102180842593.jpg?x-oss-process=style/p800' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>椒盐排骨</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>排骨，生菜，姜，料酒，葱</text>
+</view>
+<view class='step'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201007/201007021630384.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>排骨切长段，洗净过水，控干水份；生菜洗净去水。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201007/201007021631210.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>用盐、酱油、料酒、葱、姜腌制20分钟。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201007/201007021631593.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>取出葱姜，将湿淀粉，面粉调成糊。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201007/201007021632156.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>去掉排骨里面多余的水分，倒入调好的面粉淀粉糊，拌匀。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201007/201007021632396.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>锅上火，加能没过排骨的油，等油温7成热，放入挂好糊的排骨。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201007/201007021632505.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>两边略炸，捞出。</text>
+</view>

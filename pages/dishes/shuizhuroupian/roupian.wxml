@@ -1,0 +1,24 @@
+<view class='img'>
+  <image src='https://i8.meishichina.com/attachment/recipe/2013/09/21/20130921151339216599176.jpg?x-oss-process=style/p800' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>水煮肉片</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>猪里脊肉，干红辣椒，花椒，生粉，葱，姜末，蒜末，料酒，郫县豆瓣酱</text>
+</view>
+<view class='step'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201309/201309211459521380120942.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>①猪里脊肉切薄片，加适量生粉，料酒，和少许盐抓拌均匀腌十五分钟。。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201309/201309211500131380060171.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>②锅内放油，小火炒香干红辣椒，花椒。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201309/201309211500191380461325.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>放入姜末和郫县豆瓣酱继续小火炒出红油。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201309/201309211500251380617621.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>加入适量清水，煮开后加入适量鸡精调味。继续大火烧开汤，放入肉片后迅速用筷子搅散，数秒后立即起锅倒入碗中。(非常关键的一步哦，要快，不然肉会老的)。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201309/201309211500491380216647.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>碗里摆上蒜末，香菜，锅中放油烧至9成热浇上即可（油冒烟，挪下等三秒再浇），可撒入适量熟白芝麻点缀。</text>
+</view>

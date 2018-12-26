@@ -1,0 +1,31 @@
+<view class='img'>
+  <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/20150224fd58f3f35d92b745.jpg?x-oss-process=style/p800' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>海鲜意面</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>意面，虾，鱿鱼，西兰花，洋葱，盐，橄榄油，黑胡椒</text>
+</view>
+<view class='step'>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_201502240293184f4dd7238c.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>西兰花洗净，撕成小朵后焯熟备用。 </text>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_20150224c5e74bbd7213df7c.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>虾去皮去虾线备用。 </text>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_20150224b761c1144c865c42.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>鱿鱼切丝。 </text>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_20150224c82f359b7ebf985c.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>将洋葱切几刀，同圣女果一同放入料理机打成泥。 </text>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_20150224205858e2e9939bae.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>锅内烧水，加入半勺盐，放入意面煮至没有硬心后捞出控水。 </text>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_20150224d449452ba6d72c55.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>锅内放入适量橄榄油，放入虾和鱿鱼翻炒熟后取出。 </text>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_201502246f2d24fc3c964de4.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>番茄汁熬至浓稠后放入适量的盐、罗勒、黑胡椒翻炒均匀。 </text>
+ <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/p800_201502245b9018b6cd5f5d0e.jpg?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+ <text>将意面和海鲜一同倒入锅中，均匀地裹上酱汁后装盘。 </text>
+
+</view>

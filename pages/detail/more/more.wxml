@@ -1,0 +1,4 @@
+<view class='more'>
+  <image src='../../../images/icon/smile.png' style="margin: 0 auto;"></image>
+  <text>感谢您的使用，敬请期待。。。</text>
+</view>

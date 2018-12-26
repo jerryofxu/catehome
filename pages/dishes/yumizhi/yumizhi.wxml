@@ -1,0 +1,24 @@
+<view class='img'>
+  <image src='https://i8.meishichina.com/attachment/recipe/2013/03/29/20130329152625467845660.jpg?x-oss-process=style/p800' mode='aspectFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>奶香玉米汁</text>
+</view>
+<view class='second-title'>
+  <text>食材准备</text>
+</view>
+<view class='item'>
+<text>甜玉米，牛奶，清水,白糖（蜂蜜）</text>
+</view>
+<view class='step'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201303/201303291528341364700202.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>①准备材料</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/2017/11/15/201711151510739707702679451760.png?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>②洗净的玉米切成段，并将玉米粒取下。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/2017/11/15/201711151510739731784996451760.png?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>把玉米粒倒入锅中，再倒入清水（水量以淹入玉米粒就好）大火煮开，改用小火煮8-10分钟关火。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201303/201303291531141364924609.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>稍凉之后将玉米和水一起倒入搅拌机中，搅打成玉米糊状。将打好的玉米糊过筛，将玉米汁过滤出来。</text>
+  <image src='https://i8.meishichina.com/attachment/recipe/201303/201303291531361364664942.JPG?x-oss-process=style/p320' style="margin: 0 auto;"></image>
+  <text>在滤好的玉米汁中加入牛奶和少量白糖搅拌,倒入杯中，热饮或冷藏均可。</text>
+</view>

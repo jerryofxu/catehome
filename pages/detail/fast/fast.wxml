@@ -1,0 +1,6 @@
+<view class='img' bindtap='tomato'>
+  <image src='/images/dishes/tomato/6.jpg' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>西红柿炒蛋</text>
+</view>

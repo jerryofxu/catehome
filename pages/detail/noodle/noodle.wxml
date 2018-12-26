@@ -1,0 +1,6 @@
+<view class='img' bindtap='yimian'>
+  <image src='https://i8.meishichina.com/attachment/recipe/2015/02/24/20150224fd58f3f35d92b745.jpg?x-oss-process=style/p800' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>海鲜意面</text>
+</view>

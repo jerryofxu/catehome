@@ -1,0 +1,6 @@
+<view class='img' bindtap='paigu'>
+  <image src='https://i8.meishichina.com/attachment/recipe/201102/201102180842593.jpg?x-oss-process=style/p800' mode='scaleToFill' style='width: 100%'></image>
+</view>
+<view class='title'>
+  <text>椒盐排骨</text>
+</view>

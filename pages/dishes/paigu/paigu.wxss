@@ -1,0 +1,26 @@
+.img {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+}
+
+.second-title {
+  color:red;
+}
+
+.item {
+  margin: 10rpx;
+  padding: 10rpx;
+  border: 1px solid gray;
+  border-radius: 10rpx;
+}
+
+.step {
+  margin: 10rpx;
+  padding: 10rpx;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}/* pages/dishes/paigu/paigu.wxss */
